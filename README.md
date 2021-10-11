@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saam09
-- 👀 I’m interested in Coding and learning new stuff
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me saamjwesley@gmail.com
+- 👀 I’m currently learning about Web Development frontend and backend.
+- 🌱 I am in my second year of Computer Science Engineering at Loyola-ICAM College of Engineering and technology.
+- 📫 you can reach me via email: saamjwesley@gmail.com
 
