@@ -10,7 +10,7 @@
   
   <div id="title">
     <h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Saam Wesley!</h1>
-    <h4 align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Currently+doing+my+third+year+in+Computer+Science+Engineering+at+LICET%2C+Chennai" alt="Typing SVG" /></h4>
+    <h4 align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Currently+doing+my+fourth+year+in+Computer+Science+Engineering+at+LICET%2C+Chennai" alt="Typing SVG" /></h4>
   </div>
   
   <div id="header" align="center">
